@@ -1,54 +1,54 @@
 <style>
-  @CHARSET "ISO-8859-1";
+@CHARSET "ISO-8859-1";
 /* Reset CSS
 * --------------------------------------- */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
 form,fieldset,input,textarea,p,blockquote,th,td {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
 }
 /* Defining each section background and styles
 * --------------------------------------- */
 #holding{
-background-image: url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/kazakh.jpg);
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-position: center;
+  background-image: url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/kazakh.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 a{
-text-decoration:none;
+  text-decoration:none;
 }
 table {
-border-spacing: 0;
+  border-spacing: 0;
 }
 fieldset,img {
-border: 0;
+  border: 0;
 }
 address,caption,cite,code,dfn,em,strong,th,var {
-font-weight: normal;
-font-style: normal;
+  font-weight: normal;
+  font-style: normal;
 }
 strong{
-font-weight: bold;
+  font-weight: bold;
 }
 ol,ul {
-list-style: none;
-margin:0;
-padding:0;
+  list-style: none;
+  margin:0;
+  padding:0;
 }
 caption,th {
-text-align: left;
+  text-align: left;
 
 }
 h1,h2,h3,h4,h5,h6 {
-font-weight: normal;
-font-size: 100%;
-margin:0;
-padding:0;
-color:#fff;
+  font-weight: normal;
+  font-size: 100%;
+  margin:0;
+  padding:0;
+  color:#fff;
 }
 q:before,q:after {
-content:'';
+  content:'';
 }
 abbr,acronym { border: 0;
 }
@@ -56,143 +56,167 @@ abbr,acronym { border: 0;
 /* Custom CSS
 * --------------------------------------- */
 body{
-font-family: 'Arbutus', sans-serif;
-color: #fff;
+  font-family: 'Arbutus', sans-serif;
+  color: #fff;
 }
 h1{
-font-size: 5em;
+  font-size: 5em;
 }
 p{
-font-size: 1.8em;
+  font-size: 1.8em;
 }
 .section {
-text-align: center;
+  text-align: center;
 }
 .section p {
-text-align: left!important;
+  text-align: left!important;
 }
 
 /* Menu
 * --------------------------------------- */
 #menu li {
-display:inline-block;
-margin: 10px;
-color: #000;
-background:#fff;
-background: rgba(255,255,255, 0.5);
--webkit-border-radius: 10px;
-        border-radius: 10px;
+  display:inline-block;
+  margin: 10px;
+  color: #000;
+  background:#fff;
+  background: rgba(255,255,255, 0.5);
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
 }
 #menu li.active{
-background:#666;
-background: rgba(0,0,0, 0.5);
-color: #fff;
+  background:#666;
+  background: rgba(0,0,0, 0.5);
+  color: #fff;
 }
 #menu li a{
-text-decoration:none;
-color: #000;
+  text-decoration:none;
+  color: #000;
 }
 #menu li.active a:hover{
-color: #000;
+  color: #000;
 }
 #menu li:hover{
-background: rgba(255,255,255, 0.8);
+  background: rgba(255,255,255, 0.8);
 }
 #menu li a,
 #menu li.active a{
-padding: 9px 18px;
-display:block;
+  padding: 9px 18px;
+  display:block;
 }
 #menu li.active a{
-color: #fff;
+  color: #fff;
 }
 #menu{
-position:fixed;
-top:0;
-left:0;
-height: 40px;
-z-index: 70;
-width: 100%;
-padding: 0;
-margin:0;
+  position:fixed;
+  top:0;
+  left:0;
+  height: 40px;
+  z-index: 70;
+  width: 100%;
+  padding: 0;
+  margin:0;
 }
 
 
 .intro p {
-width: 70%;
-margin: 0 auto;
-font-size: 1.3em;
+  width: 70%;
+  margin: 0 auto;
+  font-size: 1.3em;
 }
 .twitter-share-button{
-position: fixed !important;
-z-index: 99;
-right: 149px;
-top: 9px;
+  position: fixed !important;
+  z-index: 99;
+  right: 149px;
+  top: 9px;
 }
 
 #infoMenu{
-height: 20px;
-color: #f2f2f2;
-position:fixed;
-z-index:70;
-bottom:0;
-width:100%;
-text-align:right;
-font-size:0.9em;
-padding:8px 0 8px 0;
+  height: 20px;
+  color: #f2f2f2;
+  position:fixed;
+  z-index:70;
+  bottom:0;
+  width:100%;
+  text-align:right;
+  font-size:0.9em;
+  padding:8px 0 8px 0;
 }
 #infoMenu ul{
-padding: 0 40px;
+  padding: 0 40px;
 }
 #infoMenu li a{
-display: block;
-margin: 0 22px 0 0;
-color: #333;
+  display: block;
+  margin: 0 22px 0 0;
+  color: #333;
 }
 #infoMenu li a:hover{
-text-decoration:underline;
+  text-decoration:underline;
 }
 #infoMenu li{
-display:inline-block;
-position:relative;
+  display:inline-block;
+  position:relative;
 }
 
 /* Section 1
 * --------------------------------------- */
 #holding h1{
-color: #fff;
+  color: #fff;
 }
 #holding p{
-color: #fff;
-text-align: center!important;
+  color: #fff;
+  text-align: center!important;
 }
 #holding img{
-margin: 20px 0;
-/* #opacity: 0.7; */
+  margin: 20px 0;
+  /* #opacity: 0.7; */
 }
 
 /* Section 2
 * --------------------------------------- */
 #background h1,
 #background p{
-z-index: 3;
+  z-index: 3;
 }
 #background p {
-margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 #background {
-background-color: #000!important;
+  background-color: #000!important;
 }
 #background #colors{
-right: 60px;
-bottom: 0;
-position: absolute;
-height: 413px;
-width: 258px;
+  right: 60px;
+  bottom: 0;
+  position: absolute;
+  height: 413px;
+  width: 258px;
 
 }
 #background a {
+  color: #fff;
+}
+* Section 3
+* --------------------------------------- */
+#details h1,
+#details p{
+  z-index: 3;
+}
+#details p {
+  margin-bottom: 10px;
+}
+
+#details {
+  background-color: #000!important;
+}
+#details #colors{
+  right: 60px;
+  bottom: 0;
+  position: absolute;
+  height: 413px;
+  width: 258px;
+
+}
+#details a {
   color: #fff;
 }
 button {

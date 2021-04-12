@@ -15,8 +15,6 @@ title: 'Gold of the Great Steppe'
 <div class="section" id="background">
   <div class="intro col-md-12">
     <h1>The Exhibition</h1>
-
-
     <p>
       The Saka culture of Central Asia, flourishing 2,500 years ago, is
       largely unknown outside Kazakhstan. This exhibition will present
@@ -41,24 +39,28 @@ title: 'Gold of the Great Steppe'
       with huge burial mounds of ambitious construction, burying elite members
       of their society with their horses.
     </p>
-
-    <p>
-      This exhibition will be built around material from three different
-      burial complexes in East Kazakhstan: Berel, Shilikty and Eleke Sazy.
-      Saka society included agriculturalists, pastoralists, nomads, settled
-      people, warriors, those engaging in ritual practice, with immense
-      technological skill and deep knowledge of wild and tamed animals.
-      Only now are we beginning to understand their culture and how it relates
-      to the people who live in Central Asia today.
-    </p>
-    <p>
-      The Saka culture of Central Asia, flourishing 2,500 years ago, is
-      largely unknown outside Kazakhstan. This exhibition will present artefacts
-      from the extraordinary burial mounds of the Saka people of East Kazakhstan.
-    </p>
-    <button type="button" class="btn btn-outline-secondary">
-      <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
-    </button>
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" />
 
   </div>
+
+  <div class="section" id="details">
+  <p>
+    This exhibition will be built around material from three different
+    burial complexes in East Kazakhstan: Berel, Shilikty and Eleke Sazy.
+    Saka society included agriculturalists, pastoralists, nomads, settled
+    people, warriors, those engaging in ritual practice, with immense
+    technological skill and deep knowledge of wild and tamed animals.
+    Only now are we beginning to understand their culture and how it relates
+    to the people who live in Central Asia today.
+  </p>
+  <p>
+    The Saka culture of Central Asia, flourishing 2,500 years ago, is
+    largely unknown outside Kazakhstan. This exhibition will present artefacts
+    from the extraordinary burial mounds of the Saka people of East Kazakhstan.
+  </p>
+  <button type="button" class="btn btn-outline-secondary">
+    <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
+  </button>
   <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" />
+
+</div>

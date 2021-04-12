@@ -1,14 +1,13 @@
 $(document).ready(function() {
-
     /*
     * Plugin intialization
     */
     $('#pagepiling').pagepiling({
       menu: '#menu',
-      anchors: ['introduction', 'background',],
+      anchors: ['introduction', 'background', 'details'],
       navigation: {
         'position': 'right',
-        'tooltips': ['Introduction', 'Background']
+        'tooltips': ['Introduction', 'Background', 'Details']
       },
       afterRender: function(){
         $('#pp-nav').addClass('custom');
