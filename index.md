@@ -4,6 +4,7 @@
 
 layout: default
 title: 'Gold of the Great Steppe'
+map: '/geojson/kazakhstan.json'
 ---
 
 <div class="section" id="holding">
@@ -43,6 +44,11 @@ title: 'Gold of the Great Steppe'
 
   </div>
 </div>
+
+<div class="section" id="map-stan">
+  <div id="map" style="width: 100%; height: 100vh;"></div>
+</div>
+
 <div class="section pp-scrollable" id="details">
   <div class="intro col-md-12 mt-5">
     <p>
