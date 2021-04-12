@@ -7,9 +7,9 @@ title: 'Gold of the Great Steppe'
 ---
 
 <div class="section" id="holding">
-    <img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="300" alt="Fitz logo" />
-    <h1>Gold of the Great Steppe</h1>
-    <p>Tuesday 28th September 2021 to Sunday 27th February 2022</p>
+  <img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="300" alt="Fitz logo" />
+  <h1>Gold of the Great Steppe</h1>
+  <p>Tuesday 28th September 2021 to Sunday 27th February 2022</p>
 </div>
 
 <div class="section" id="background">
@@ -29,7 +29,6 @@ title: 'Gold of the Great Steppe'
       archaeological methods enable scholars and scientists to find and analyse
       not only burial mounds but also the remnants of settlements.
     </p>
-
     <p>
       The Saka occupied a landscape of seemingly endless steppe to the west,
       bounded by mountains to the east and south. Known as fierce warriors,
@@ -42,25 +41,26 @@ title: 'Gold of the Great Steppe'
     <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" />
 
   </div>
-
-  <div class="section" id="details">
-  <p>
-    This exhibition will be built around material from three different
-    burial complexes in East Kazakhstan: Berel, Shilikty and Eleke Sazy.
-    Saka society included agriculturalists, pastoralists, nomads, settled
-    people, warriors, those engaging in ritual practice, with immense
-    technological skill and deep knowledge of wild and tamed animals.
-    Only now are we beginning to understand their culture and how it relates
-    to the people who live in Central Asia today.
-  </p>
-  <p>
-    The Saka culture of Central Asia, flourishing 2,500 years ago, is
-    largely unknown outside Kazakhstan. This exhibition will present artefacts
-    from the extraordinary burial mounds of the Saka people of East Kazakhstan.
-  </p>
-  <button type="button" class="btn btn-outline-secondary">
-    <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
-  </button>
-  <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" />
-
+</div>
+<div class="section" id="details">
+  <div class="intro col-md-12">
+    <p>
+      This exhibition will be built around material from three different
+      burial complexes in East Kazakhstan: Berel, Shilikty and Eleke Sazy.
+      Saka society included agriculturalists, pastoralists, nomads, settled
+      people, warriors, those engaging in ritual practice, with immense
+      technological skill and deep knowledge of wild and tamed animals.
+      Only now are we beginning to understand their culture and how it relates
+      to the people who live in Central Asia today.
+    </p>
+    <p>
+      The Saka culture of Central Asia, flourishing 2,500 years ago, is
+      largely unknown outside Kazakhstan. This exhibition will present artefacts
+      from the extraordinary burial mounds of the Saka people of East Kazakhstan.
+    </p>
+    <button type="button" class="btn btn-outline-secondary">
+      <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
+    </button>
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" />
+  </div>
 </div>

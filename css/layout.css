@@ -1,5 +1,3 @@
-<style>
-@CHARSET "ISO-8859-1";
 /* Reset CSS
 * --------------------------------------- */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
@@ -63,7 +61,7 @@ h1{
   font-size: 5em;
 }
 p{
-  font-size: 1.8em;
+  font-size: 1.3em;
 }
 .section {
   text-align: center;
