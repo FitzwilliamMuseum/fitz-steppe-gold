@@ -38,7 +38,7 @@ title: 'Gold of the Great Steppe'
       with huge burial mounds of ambitious construction, burying elite members
       of their society with their horses.
     </p>
-    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" />
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" class="img-fluid" alt="A pendant from the exhibition"/>
 
   </div>
 </div>
@@ -58,9 +58,9 @@ title: 'Gold of the Great Steppe'
       largely unknown outside Kazakhstan. This exhibition will present artefacts
       from the extraordinary burial mounds of the Saka people of East Kazakhstan.
     </p>
-    <button type="button" class="btn btn-outline-secondary">
+    <button type="button" class="btn btn-outline-secondary align-center">
       <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
     </button>
-    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" />
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" class="img-fluid" alt="A pendant from the exhibition"/>
   </div>
 </div>
