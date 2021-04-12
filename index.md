@@ -15,7 +15,7 @@ title: 'Gold of the Great Steppe'
 </div>
 
 <div class="section pp-scrollable" id="background">
-  <div class="intro col-md-12">
+  <div class="intro col-md-12 mt-5">
     <p>
       The Saka culture of Central Asia, flourishing 2,500 years ago, is
       largely unknown outside Kazakhstan. This exhibition will present
@@ -44,7 +44,7 @@ title: 'Gold of the Great Steppe'
   </div>
 </div>
 <div class="section pp-scrollable" id="details">
-  <div class="intro col-md-12 ">
+  <div class="intro col-md-12 mt-5">
     <p>
       This exhibition will be built around material from three different
       burial complexes in East Kazakhstan: Berel, Shilikty and Eleke Sazy.
