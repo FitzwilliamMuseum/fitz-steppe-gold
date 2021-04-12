@@ -16,9 +16,7 @@ title: 'Gold of the Great Steppe'
     <div id="colors"></div>
     <h1>The Exhibition</h1>
 
-    <button type="button" class="btn orange btn-lg">
-      <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
-    </button>
+
     <p>
       The Saka culture of Central Asia, flourishing 2,500 years ago, is
       largely unknown outside Kazakhstan. This exhibition will present
@@ -58,5 +56,7 @@ title: 'Gold of the Great Steppe'
       largely unknown outside Kazakhstan. This exhibition will present artefacts
       from the extraordinary burial mounds of the Saka people of East Kazakhstan.
     </p>
-
+    <button type="button" class="btn">
+      <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
+    </button>
   </div>
