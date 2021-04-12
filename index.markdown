@@ -5,6 +5,7 @@
 layout: default
 title: 'Gold of the Great Steppe'
 ---
+
 <div class="section" id="holding">
     <img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="300" alt="Fitz logo" />
     <h1>Gold of the Great Steppe</h1>
@@ -12,8 +13,7 @@ title: 'Gold of the Great Steppe'
 </div>
 
 <div class="section" id="background">
-  <div class="intro">
-    <div id="colors"></div>
+  <div class="intro col-md-12">
     <h1>The Exhibition</h1>
 
 
@@ -56,7 +56,7 @@ title: 'Gold of the Great Steppe'
       largely unknown outside Kazakhstan. This exhibition will present artefacts
       from the extraordinary burial mounds of the Saka people of East Kazakhstan.
     </p>
-    <button type="button" class="btn">
+    <button type="button" class="btn btn-outline-secondary">
       <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
     </button>
 
