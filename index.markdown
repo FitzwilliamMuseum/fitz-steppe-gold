@@ -59,4 +59,6 @@ title: 'Gold of the Great Steppe'
     <button type="button" class="btn">
       <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
     </button>
+
   </div>
+  <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" />

@@ -5,11 +5,10 @@ $(document).ready(function() {
     */
     $('#pagepiling').pagepiling({
       menu: '#menu',
-      anchors: ['page1', 'page2', 'page3', 'page4'],
-      sectionsColor: ['white', '#ee005a', '#2C3E50', '#39C'],
+      anchors: ['introduction', 'background',],
       navigation: {
         'position': 'right',
-        'tooltips': ['Page 1', 'Page 2', 'Page 3', 'Page 4']
+        'tooltips': ['Page 1', 'Page 2']
       },
       afterRender: function(){
         $('#pp-nav').addClass('custom');
@@ -22,7 +21,4 @@ $(document).ready(function() {
         }
       }
     });
-
-
-
   });
