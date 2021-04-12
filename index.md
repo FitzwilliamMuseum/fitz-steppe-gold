@@ -7,14 +7,15 @@ title: 'Gold of the Great Steppe'
 ---
 
 <div class="section" id="holding">
+  <div class="intro col-md-12">
   <img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="300" alt="Fitz logo" />
   <h1>Gold of the Great Steppe</h1>
   <p>Tuesday 28th September 2021 to Sunday 27th February 2022</p>
+  </div>
 </div>
 
-<div class="section" id="background">
+<div class="section pp-scrollable" id="background">
   <div class="intro col-md-12">
-    <h1>The Exhibition</h1>
     <p>
       The Saka culture of Central Asia, flourishing 2,500 years ago, is
       largely unknown outside Kazakhstan. This exhibition will present
@@ -42,8 +43,8 @@ title: 'Gold of the Great Steppe'
 
   </div>
 </div>
-<div class="section" id="details">
-  <div class="intro col-md-12">
+<div class="section pp-scrollable" id="details">
+  <div class="intro col-md-12 ">
     <p>
       This exhibition will be built around material from three different
       burial complexes in East Kazakhstan: Berel, Shilikty and Eleke Sazy.
@@ -61,6 +62,8 @@ title: 'Gold of the Great Steppe'
     <button type="button" class="btn btn-outline-secondary align-center">
       <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
     </button>
+    </div>
+    <div class="intro col-md-12">
     <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" class="img-fluid" alt="A pendant from the exhibition"/>
   </div>
 </div>
