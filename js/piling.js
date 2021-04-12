@@ -8,7 +8,7 @@ $(document).ready(function() {
       anchors: ['introduction', 'background',],
       navigation: {
         'position': 'right',
-        'tooltips': ['Page 1', 'Page 2']
+        'tooltips': ['Introduction', 'Background']
       },
       afterRender: function(){
         $('#pp-nav').addClass('custom');
