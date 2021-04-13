@@ -9,9 +9,10 @@ map: '/geojson/kazakhstan.json'
 
 <div class="section" id="holding">
   <div class="intro col-md-12">
-  <img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="300" alt="Fitz logo" />
+  <a href="https://www.fitzmuseum.cam.ac.uk"><img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="300" alt="Fitz logo" /></a>
   <h1>Gold of the Great Steppe</h1>
   <p>Tuesday 28th September 2021 to Sunday 27th February 2022</p>
+
   </div>
 </div>
 
@@ -51,6 +52,7 @@ map: '/geojson/kazakhstan.json'
 
 <div class="section pp-scrollable d-flex h-100" id="details">
   <div class="intro col-md-12 mt-5 justify-content-center align-self-center ">
+  <img src="https://museums.cam.ac.uk/themes/custom/uocm/logo.svg" class="img-fluid" width="400" class="mb-3"/>
     <p>
       This exhibition will be built around material from three different
       burial complexes in East Kazakhstan: Berel, Shilikty and Eleke Sazy.
