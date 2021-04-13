@@ -1,31 +1,5 @@
-{
-  "type" : "FeatureCollection",
-  "features" : [ {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 86.5357715,49.5963971]
-    },
-    "properties" : {
-      "title" : "Berel"
-    }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 60.6582641, 47.5162732 ]
-    },
-    "properties" : {
-      "title" : "Shilikty"
-    }
-    }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 82.8061386, 47.7620046 ]
-    },
-    "properties" : {
-      "title" : "Eleke Sazy"
-    }
-  }]
-}
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[86.36556417039245,49.34355326330301,1115.009878730851]},"properties":{"id":"01A157180D1336AE2714","name":"Berel"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[82.12611395099972,47.33674217902109,1368.710567267174]},"properties":{"id":"0DB602B3F7133847060D","name":"Eleke Sazy"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[84.5164482220539,47.17407473517709,1110.639158879585]},"properties":{"id":"0B5863EA28134E6A6E02","name":"Shilikty"}}
+]}
