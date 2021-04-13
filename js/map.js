@@ -21,3 +21,7 @@ $.getJSON("geojson/kazakhstan.json",function(data){
   // add GeoJSON layer to the map once the file is loaded
   L.geoJson(data).addTo(map);
 });
+$.getJSON("geojson/places.json",function(data){
+  // add GeoJSON layer to the map once the file is loaded
+  L.geoJson(data).addTo(map);
+});

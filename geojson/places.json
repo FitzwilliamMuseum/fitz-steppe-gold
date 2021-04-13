@@ -1,0 +1,31 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 86.5357715,49.5963971]
+    },
+    "properties" : {
+      "title" : "Berel"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 60.6582641, 47.5162732 ]
+    },
+    "properties" : {
+      "title" : "Shilikty"
+    }
+    }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 82.8061386, 47.7620046 ]
+    },
+    "properties" : {
+      "title" : "Eleke Sazy"
+    }
+  }]
+}
