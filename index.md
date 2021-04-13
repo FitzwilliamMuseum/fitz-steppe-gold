@@ -15,8 +15,8 @@ map: '/geojson/kazakhstan.json'
   </div>
 </div>
 
-<div class="section pp-scrollable" id="background">
-  <div class="intro col-md-12 mt-5">
+<div class="section pp-scrollable d-flex h-100" id="background">
+  <div class="intro col-md-12 mt-5 justify-content-center align-self-center ">
     <p>
       The Saka culture of Central Asia, flourishing 2,500 years ago, is
       largely unknown outside Kazakhstan. This exhibition will present
@@ -49,8 +49,8 @@ map: '/geojson/kazakhstan.json'
   <div id="map" style="width: 100%; height: 100vh;"></div>
 </div>
 
-<div class="section pp-scrollable" id="details">
-  <div class="intro col-md-12 mt-5">
+<div class="section pp-scrollable d-flex h-100" id="details">
+  <div class="intro col-md-12 mt-5 justify-content-center align-self-center ">
     <p>
       This exhibition will be built around material from three different
       burial complexes in East Kazakhstan: Berel, Shilikty and Eleke Sazy.
@@ -68,8 +68,9 @@ map: '/geojson/kazakhstan.json'
     <button type="button" class="btn btn-outline-secondary align-center">
       <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
     </button>
-    </div>
     <div class="intro col-md-12">
     <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/goldpendant.png" class="img-fluid" alt="A pendant from the exhibition"/>
   </div>
+    </div>
+
 </div>
