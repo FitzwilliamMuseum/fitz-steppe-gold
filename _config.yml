@@ -22,8 +22,8 @@ title: Gold of the Great Steppe
 email: dejp3@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   A holding website for Gold of the Great Steppe. 
-baseurl: "/steppe-gold" # the subpath of your site, e.g. /blog
-url: "https://fitzwilliam.github.cop/steppe-gold" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://steppe-gold.fitz.ms" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dejpett
 github_username:  portableant
 
