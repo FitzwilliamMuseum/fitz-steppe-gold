@@ -16,8 +16,8 @@ map: '/geojson/kazakhstan.json'
   </div>
 </div>
 
-<div class="section pp-scrollable d-flex h-100" id="background">
-  <div class="intro col-md-12 mt-5 justify-content-center align-self-center ">
+<div class="section pp-scrollable d-flex" id="background">
+  <div class="intro col-md-12 mt-5  align-self-center ">
     <p>
       The Saka culture of Central Asia, flourishing 2,500 years ago, is
       largely unknown outside Kazakhstan. This exhibition will present

@@ -21,16 +21,45 @@
 title: Gold of the Great Steppe
 email: dejp3@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  A holding website for Gold of the Great Steppe. 
+  A holding website for Gold of the Great Steppe.
 baseurl: "/steppe-gold" # the subpath of your site, e.g. /blog
 url: "https://fitzwilliam.github.cop/steppe-gold" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dejpett
-github_username:  portableant
+twitter_username: fitzmuseum_uk
+github_username:  fitzwilliammuseum
 
 # Build settings
 plugins:
   - jekyll-feed
+words_per_minute: 200
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-mentions
 
+collections:
+   exhibition:
+      output: true
+   about:
+      output: true
+   resources:
+      output: true
+   team:
+      output: true
+   blog:
+      output: true
+
+feed:
+  collections:
+    - posts
+
+timezone: Europe/London
+permalink: pretty
+encoding: "utf-8"
+read_time: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
