@@ -1,7 +1,7 @@
 
 
 <div class="video-container">
-  <video autoPlay muted loop
+  <video autoPlay muted loop controls
   src="{{base.url}}{{page.video}}"
   >
   <source src="{{base.url}}{{page.video}}" type="video/mp4" />
@@ -22,6 +22,10 @@
     object-fit: cover;
     z-index: 0;
   }
+  .video-player {
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+  }
 
   /* Just styling the content of the div, the *magic* in the previous rules */
   .video-container .caption {
@@ -29,6 +33,5 @@
     position: relative;
     text-align: center;
     color: #dc0000;
-    padding: 10px;
   }
 </style>
