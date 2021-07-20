@@ -2,7 +2,7 @@
 layout: gold
 permalink: /exhibition/
 title: The exhibition
-video: /images/videos/compress.mp4
+video: /images/videos/landscapes.mp4
 ---
 ‘Exhibition tickets are FREE, sign up to our E-news to be among the first to be notified of ticket releases.’
 
