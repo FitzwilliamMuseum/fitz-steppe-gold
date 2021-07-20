@@ -105,9 +105,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <!-- Nav bars -->
     {% include /structure/navigation.html %}
-
+    {% if page.video == '' %}
     <div class="container-fluid head parallax">
     </div>
+    {% else %}
+    <div class="container-fluid head parallax">
+    {% include /structure/video.html %}
+    </div>
+    {% endif %}
     <div class="container-fluid bg-white text-black text-center">
       <div class="py-2">
         <h1 class="shout lead" id="doc-main-h1">{{page.title}}</h1>
