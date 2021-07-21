@@ -6,8 +6,11 @@ id: team
 image: /images/backgrounds/landscape_mound.jpg
 parallax: /images/backgrounds/excavated.jpg
 ---
-## Core team
-{: .text-info .display-5 }
+<div class="container mb-3">
+  <h2 class="text-info display-5">Core team</h2>
+</div>
+
+<div class="container mb-3">
 {% assign rows = site.team.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
@@ -29,7 +32,7 @@ parallax: /images/backgrounds/excavated.jpg
     {% endfor %}
   </div>
 {% endfor %}
-
+</div>
 {% capture contributors %}
 ## Contributors
 {: .text-info .display-5 .mt-3}

@@ -125,22 +125,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {% include /structure/breadcrumbs.html %}
 
       {% if page.url == "/team/" %}
-        <div class="container">
        {{ content }}
-     </div>
        {% include /structure/parallax.html %}
          <div class="container">
-       {% include /structure/contributors.html %}
-     </div>
+           {% include /structure/contributors.html %}
+          </div>
        {{ contributors }}
+       {% elsif page.url == "/about/" %}
+           {{ content }}
       {% elsif page.url == "/objects/" %}
        {{ content }}
        {% else %}
         <div class="container">
-       <div class="col-12 shadow-sm p-3 mx-auto mb-3 mt-3 ">
-         {{ content }}
-       </div>
-     </div>
+          <div class="col-12 shadow-sm p-3 mx-auto mb-3 mt-3 ">
+            {{ content }}
+          </div>
+        </div>
        {% endif %}
 
     </div>
