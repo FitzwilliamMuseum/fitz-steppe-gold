@@ -5,6 +5,7 @@
 layout: default
 title: 'Gold of the Great Steppe'
 map: '/geojson/kazakhstan.json'
+permalink: /old
 ---
 
 <div class="section" id="holding">
