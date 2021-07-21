@@ -4,7 +4,15 @@ permalink: /exhibition/
 title: The exhibition
 video: /images/videos/landscapes.mp4
 ---
-‘Exhibition tickets are FREE, sign up to our E-news to be among the first to be notified of ticket releases.’
+[**Gold of The Great Steppe (28 September 2021 – 30 January 2022)**<br />  Exhibition tickets are FREE, sign up to our E-news for release date](https://tickets.museums.cam.ac.uk/account/create){: .btn .btn-info .p-3 .d-block .mx-3 .text-center} 
+
+{::options parse_block_html="true" /}
+<figure class="figure">
+![Stag on tip toes]({{site.baseurl}}/images/objects/stag-on-tiptoes.jpg){: .img-fluid .float-right .p-3 .figure-img }
+<figcaption class="figure-caption">
+  Stag on tiptoes with chain and fastening loop. Gold and precious stones. Eleke Sazy, Group VI, Great Earthen Mound ‘Patsha’. 6th – 5th centuries BCE.
+</figcaption>
+</figure>
 
 _Gold of The Great Steppe_{: .text-info } (28 September 2021 – 30 January 2022) will display an
 archaeological sensation, hundreds of outstanding gold artefacts recently discovered
