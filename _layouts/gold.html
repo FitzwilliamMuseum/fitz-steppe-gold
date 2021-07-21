@@ -107,7 +107,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {% include /structure/navigation.html %}
     {% if page.video  %}
       <div class="container-fluid head parallax video-player">
-        <h1>{{ page.video}}</h1>
         {% include /structure/video.html %}
       </div>
     {% else %}
@@ -120,8 +119,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 
     {% include /structure/breadcrumbs.html %}
-
-
 
       {% if page.url == "/team/" %}
         <div class="container">
