@@ -45,7 +45,9 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
 <link href="https://beta.fitz.ms/css/site.css" rel="stylesheet" media="screen">
 
 <link rel="icon" href="https://beta.fitz.ms/favicon.ico"/>
-
+{% if page.map %}
+<link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.css" rel="stylesheet">
+{% endif %}
 <style>
 .head {
 
@@ -143,6 +145,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   {% include /structure/footer_logos.html %}
   {% include /structure/footer.html %}
   {% include /structure/javascript.html %}
-
+  {% if page.map %}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.js"></script>
+  <script type="text/javascript" src="{{site.baseurl}}/js/map.js" ></script>
+  {% endif %}
   </body>
   </html>

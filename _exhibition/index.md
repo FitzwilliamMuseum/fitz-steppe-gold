@@ -4,7 +4,7 @@ permalink: /exhibition/
 title: The exhibition
 video: /images/videos/landscapes.mp4
 ---
-[**Gold of The Great Steppe (28 September 2021 – 30 January 2022)**<br />  Exhibition tickets are FREE, sign up to our E-news for release date](https://tickets.museums.cam.ac.uk/account/create){: .btn .btn-info .p-3 .d-block .mx-3 .text-center} 
+[**Gold of The Great Steppe (28 September 2021 – 30 January 2022)**<br />  Exhibition tickets are FREE, sign up to our E-news for release date](https://tickets.museums.cam.ac.uk/account/create){: .btn .btn-info .p-3 .d-block .mx-3 .text-center}
 
 {::options parse_block_html="true" /}
 <figure class="figure">
@@ -23,6 +23,7 @@ one of the earliest expressions of the Scythian world that dominated the Eurasia
 steppe zone from the Black Sea to Siberia. Located in the Altai mountain system,
 the Saka of East Kazakhstan were a vibrant society who occupied a landscape of
 wide open skies, rolling plains, winding rivers and soaring mountains.
+
 
 The spectacular artefacts were unearthed during an ongoing excavation by
 archaeologists in the East Kazakhstan region, many of the discoveries were unearthed
