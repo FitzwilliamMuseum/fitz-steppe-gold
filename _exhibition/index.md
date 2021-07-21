@@ -4,7 +4,7 @@ permalink: /exhibition/
 title: The exhibition
 video: /images/videos/landscapes.mp4
 ---
-[**Gold of The Great Steppe (28 September 2021 – 30 January 2022)**<br />  Exhibition tickets are FREE, sign up to our E-news for release date](https://tickets.museums.cam.ac.uk/account/create){: .btn .btn-info .p-3 .d-block .mx-3 .text-center}
+[**Gold of The Great Steppe (28 September 2021 – 30 January 2022)**<br />  Exhibition tickets are FREE, sign up to our E-news for release date](https://tickets.museums.cam.ac.uk/account/create){: .btn .btn-info .p-3 .d-block .mb-3 .text-center}
 
 {::options parse_block_html="true" /}
 <figure class="figure">
