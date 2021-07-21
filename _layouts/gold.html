@@ -105,13 +105,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <!-- Nav bars -->
     {% include /structure/navigation.html %}
-    {% if page.video == '' %}
-    <div class="container-fluid head parallax">
-    </div>
+    {% if page.video  %}
+      <div class="container-fluid head parallax video-player">
+        <h1>{{ page.video}}</h1>
+        {% include /structure/video.html %}
+      </div>
     {% else %}
-    <div class="container-fluid head parallax video-player">
-    {% include /structure/video.html %}
-    </div>
+    <div class="container-fluid head parallax"></div>
     {% endif %}
     <div class="container-fluid bg-white text-black text-center">
       <div class="py-2">
