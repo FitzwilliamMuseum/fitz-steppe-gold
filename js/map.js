@@ -23,7 +23,9 @@ var map = new L.Map('map', {
   layers: [Stamen_TonerBackground, Esri ],
   zoomControl: true,
   scrollWheelZoom: false,
-  fullscreenControl: true,
+  fullscreenControl: {
+        pseudoFullscreen: false
+    }
 });
 
 // load GeoJSON from an external file
@@ -35,4 +37,4 @@ $.getJSON("geojson/places.json",function(data){
   // add GeoJSON layer to the map once the file is loaded
   L.geoJson(data).addTo(map);
 });
-map.addControl(new L.Control.Fullscreen());
+// map.addControl(new L.Control.Fullscreen());
