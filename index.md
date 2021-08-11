@@ -6,8 +6,7 @@ video: /images/videos/treeline-small.mp4
 map: '/geojson/kazakhstan.json'
 
 ---
-
-[**Gold of The Great Steppe (28 September 2021 – 30 January 2022)**<br />  Exhibition tickets are FREE, sign up to our E-news for release date](https://tickets.museums.cam.ac.uk/account/create){: .btn .btn-info .p-3 .d-block .mb-3 .text-center}
+{% include structure/tickets.html %}
 
 
 Five years ago, a large-scale and unique archaeological research programme was launched  in the East Kazakhstan Region of the Republic of Kazakhstan. Identifying and excavating dozens of new archaeological sites to be studied. In 2019, the East Kazakhstan Regional Museum of Local History and the University of Cambridge began working together to arrange joint research projects and an exhibition drawing on material and studies from this important research programme.
