@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   "Five years ago, a large-scale and unique archaeological research programme was
   launched  in the East Kazakhstan Region of the Republic of Kazakhstan.""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://steppe-gold.fitz.ms" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://steppe-gold.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 
