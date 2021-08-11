@@ -1,6 +1,7 @@
 ---
 layout: gold
 title: Professor Abdesh Toleybayev
+permalink: /about/team/abdesh-toleybayev
 ---
 Leading archaeologist in East Kazakhstan and Professor in the Archaeology, Ethnography
 and Museology department of [Al-Farabi Kazakh National University](https://pps.kaznu.kz/en/Main/Personal/75/359/209/Толеубаев Абдеш)

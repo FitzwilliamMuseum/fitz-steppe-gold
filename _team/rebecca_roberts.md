@@ -1,7 +1,7 @@
 ---
 title: Dr Rebecca Roberts
 twitter: ""
-image: "https://content.fitz.ms/fitz-website/assets/rroberts_0.jpeg?key=directus-medium-crop"
+profile_image: "https://content.fitz.ms/fitz-website/assets/rroberts_0.jpeg?key=directus-medium-crop"
 institution: The Fitzwilliam Museum
 job-title: Project curator
 layout: gold
@@ -28,4 +28,4 @@ Thesis title: How useful is the notion of 'environmental security' to Kazakhstan
 
 Job title: Research Associate (Fitzwilliam Museum)/ Project Coordinator (Arcadia MAHSA)
 
-Email: rcr45@cam.ac.uk
+Email: [rcr45@cam.ac.uk](mailto:rcr45@cam.ac.uk)
