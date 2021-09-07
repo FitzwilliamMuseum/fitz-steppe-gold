@@ -42,7 +42,7 @@ parallax: /images/backgrounds/excavated.jpg
 
 [Joanna Dobson](https://altaipilgrim.com/en/)
 [Professor Emerita Claudia Chang](https://isaw.nyu.edu/people/affiliates/research-associates/claudia-chang), Sweet Briar College  
-[Dr. Laerke Recht](https://spiritedhorse.wordpress.com/about/)  
+[Professor Laerke Recht](https://spiritedhorse.wordpress.com/about/)  
 [Prof Peter Stewart](https://www.arch.ox.ac.uk/people/stewart-peter), Oxford University  
 [Professor Tim Williams](International Centre for Silk Roads Archaeology & Heritage, Central Asian Archaeological Landscape (CAAL)), University College London  
 [Dr Gai Jorayev](https://www.ucl.ac.uk/archaeology/people/gai-jorayev), University College London  
