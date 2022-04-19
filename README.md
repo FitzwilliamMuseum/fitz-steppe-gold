@@ -4,6 +4,7 @@ Five years ago, a large-scale and unique archaeological research programme was l
 
 This exhibition will bring to the UK Kazakhstani archaeological finds and research from three different burial complexes in East Kazakhstan: Berel, Shilikti and Eleke Sazy. It will allow visitors to discover the life and legacy of the Saka people, revealing their history like never before, and exploring points of resonance with Kazakh culture today.
 
+![goldOfTheGreatSteppe](https://user-images.githubusercontent.com/286552/164022980-f8fc1d25-7701-48fc-8ae0-f4f504898a16.jpg)
 
 ## To run locally
 
