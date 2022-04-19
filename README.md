@@ -1,5 +1,7 @@
 # Gold of the Great Steppe
 
+[![DOI](https://zenodo.org/badge/353321085.svg)](https://zenodo.org/badge/latestdoi/353321085)
+
 Five years ago, a large-scale and unique archaeological research programme was launched in the East Kazakhstan Region of the Republic of Kazakhstan. Identifying and excavating dozens of new archaeological sites to be studied. In 2019, the East Kazakhstan Regional Museum of Local History and the University of Cambridge began working together to arrange joint research projects and an exhibition drawing on material and studies from this important research programme.
 
 This exhibition will bring to the UK Kazakhstani archaeological finds and research from three different burial complexes in East Kazakhstan: Berel, Shilikti and Eleke Sazy. It will allow visitors to discover the life and legacy of the Saka people, revealing their history like never before, and exploring points of resonance with Kazakh culture today.
