@@ -1,7 +1,7 @@
 ---
 layout: gold
-title: Saltanat Amirova
-permalink: /about/team/saltanat-amrirova
+title: Saltanat Amir
+permalink: /about/team/saltanat-amrir
 ---
 
-[Saltanat Amirova](https://www.hardingscholars.fund.cam.ac.uk/saltanat-amirova-2020-cohort) is a  PhD student in Metallurgy at Cambridge focussing on material from East Kazakhstan
+[Saltanat Amir](https://www.hardingscholars.fund.cam.ac.uk/saltanat-amirova-2020-cohort), Curatorial Assistant, is a  PhD student in Archaeometallurgy at Cambridge focussing on material from East Kazakhstan.
