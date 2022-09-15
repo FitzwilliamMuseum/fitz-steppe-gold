@@ -8,10 +8,15 @@ form,fieldset,input,textarea,p,blockquote,th,td {
 /* Defining each section background and styles
 * --------------------------------------- */
 #holding{
-  background-image: url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/kazakh.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
+
+  background: url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/paphos_sunset.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#holding a {
+  color: #fff;
 }
 a{
   text-decoration:none;
@@ -43,7 +48,6 @@ h1,h2,h3,h4,h5,h6 {
   font-size: 100%;
   margin:0;
   padding:0;
-  color:#fff;
 }
 q:before,q:after {
   content:'';
@@ -53,10 +57,7 @@ abbr,acronym { border: 0;
 
 /* Custom CSS
 * --------------------------------------- */
-body{
-  font-family: 'Arbutus', sans-serif;
-  color: #fff;
-}
+
 h1{
   font-size: 4em;
 }
@@ -218,16 +219,34 @@ p{
   color: #fff;
 }
 button {
-  background-color: grey; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
   font-size: 16px;
-  margin-bottom: 10px;
-  border-radius: 10px;
+  color: #fff;
+
+  /* transform: translate(-50%, -50%); */
+  width: 50px;
+  padding: 15px;
+  border: none;
+  border-radius: 2px;
+  outline: none;
+
+  opacity: 0.8;
+  cursor: pointer;
+  transition: all 0.4s ease-out;
 }
 
-</style>
+button.fade:hover {
+  opacity: 0.8;
+}
+
+.fade {
+  opacity: 0.2;
+  top: 0;
+  left: 0;
+  transform: translate(0, 0);
+}
+a.anchor {
+  display: block;
+  position: relative;
+  top: -200px;
+  visibility: hidden;
+}
