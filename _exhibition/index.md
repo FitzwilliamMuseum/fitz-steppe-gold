@@ -5,8 +5,6 @@ title: The exhibition
 video: /images/videos/landscapes.mp4
 ---
 
-{% include structure/tickets.html %}
-
 {::options parse_block_html="true" /}
 <figure class="figure">
 ![Stag on tip toes]({{site.baseurl}}/images/objects/stag-on-tiptoes.jpg){: .img-fluid .float-right .p-3 .figure-img }

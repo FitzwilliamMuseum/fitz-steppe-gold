@@ -4,7 +4,6 @@ layout: gold
 permalink: /about/background/
 image: /images/backgrounds/landscape_mound.jpg
 ---
-{% include structure/tickets.html %}
 
 Five years ago, a large-scale and unique archaeological research programme was launched  in the East Kazakhstan Region of the Republic of Kazakhstan. Identifying and excavating dozens of new archaeological sites to be studied. In 2019, the East Kazakhstan Regional Museum of Local History and the University of Cambridge began working together to arrange joint research projects and an exhibition drawing on material and studies from this important research programme.
 
